@@ -1,0 +1,36 @@
+body{
+  background-color:darkturquoise;
+}
+
+h1{
+  color:aliceblue;
+  text-align:center
+}
+
+h1{
+font-family: 'Pacifico', cursive;
+}
+
+p{
+  color:midnightblue;
+  text-align:center
+}
+
+li{
+  color: midnightblue;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: crimson;
+  text-decoration: none;
+}
+
+a:hover {
+  color: mediumvioletred;
+  text-decoration: none;
+}
