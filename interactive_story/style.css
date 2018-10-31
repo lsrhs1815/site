@@ -11,9 +11,22 @@ h1{
 font-family: 'Pacifico', cursive;
 }
 
+h2{
+  font-family: 'Ceviche One', cursive;
+}
+
+h2{
+  color: Black;
+  text-align:center
+}
+
 p{
   color:midnightblue;
   text-align:center
+}
+
+ul{
+  list-style-type: none
 }
 
 li{
@@ -23,6 +36,7 @@ li{
 a:link {
   color: black;
   text-decoration: none;
+  font-family: 'Cinzel', cursive; 
 }
 
 a:visited {
