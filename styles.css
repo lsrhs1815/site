@@ -1,0 +1,81 @@
+body{
+  background-color:darkturquoise;
+}
+
+h1{
+  color:Crimson;
+  text-align:center
+}
+
+h1{
+font-family: 'Pacifico', cursive;
+}
+
+h2{
+  font-family: 'Ceviche One', cursive;
+}
+
+h2{
+  color: Black;
+  text-align:center
+}
+
+p{
+  color:midnightblue;
+  text-align:center
+}
+
+p{
+  font-family: 'Major Mono Display', monospace;
+}
+
+h3{
+  color:seagreen;
+  text-align:center
+}
+
+h3{
+    font-family: 'Major Mono Display', monospace;
+}
+
+h5{
+  font-family: 'B612 Mono', monospace;
+}
+
+h5{
+  color:firebrick;
+}
+
+h6{
+  color:midnightblue;
+  text-align:center
+}
+
+h6{
+  font-family: 'B612 Mono', monospace;
+}
+
+
+ul{
+  list-style-type: none
+}
+
+li{
+  color: midnightblue;
+}
+
+a:link {
+  color: Midnightblue;
+  text-decoration: none;
+font-family: 'Cinzel', cursive;
+}
+
+a:visited {
+  color: Midnightblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: mediumvioletred;
+  text-decoration: none;
+}
